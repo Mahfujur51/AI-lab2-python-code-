@@ -1,7 +1,7 @@
 '''
 Created on Mar 23, 2019
 
-@author: Torikul
+@author: mahfujur
 '''
 import random as r
 b=0;
