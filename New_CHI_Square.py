@@ -1,7 +1,7 @@
 '''
 Created on Apr 3, 2019
 
-@author: Torikul
+@author: mahfujur
 '''
 from random import*
 A = []
